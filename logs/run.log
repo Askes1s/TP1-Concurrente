@@ -1,0 +1,2162 @@
+---------------------------------------------
+
+Time since start: 192 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	3
+	- Confirmed seats waiting for being processed: 	0
+	- Confirmed seats processed: 	2
+	- Canceled PAYMENTS processed: 	1
+	- Checked SEATS processed: 	1
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	2
+	- VERIFIED PASSENGERS: 	1
+	- ORDERS PROCESSED: 	3
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 406 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	2
+	- Reserved seats processed: 	8
+	- Confirmed seats waiting for being processed: 	1
+	- Confirmed seats processed: 	5
+	- Canceled PAYMENTS processed: 	1
+	- Checked SEATS processed: 	3
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	2
+	- VERIFIED PASSENGERS: 	3
+	- ORDERS PROCESSED: 	5
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 609 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	1
+	- Reserved seats processed: 	11
+	- Confirmed seats waiting for being processed: 	1
+	- Confirmed seats processed: 	8
+	- Canceled PAYMENTS processed: 	2
+	- Checked SEATS processed: 	7
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	3
+	- VERIFIED PASSENGERS: 	6
+	- ORDERS PROCESSED: 	9
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 811 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	3
+	- Reserved seats processed: 	18
+	- Confirmed seats waiting for being processed: 	2
+	- Confirmed seats processed: 	13
+	- Canceled PAYMENTS processed: 	2
+	- Checked SEATS processed: 	12
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	3
+	- VERIFIED PASSENGERS: 	10
+	- ORDERS PROCESSED: 	13
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 1012 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	2
+	- Reserved seats processed: 	22
+	- Confirmed seats waiting for being processed: 	2
+	- Confirmed seats processed: 	17
+	- Canceled PAYMENTS processed: 	3
+	- Checked SEATS processed: 	14
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	4
+	- VERIFIED PASSENGERS: 	14
+	- ORDERS PROCESSED: 	18
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 1214 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	3
+	- Reserved seats processed: 	28
+	- Confirmed seats waiting for being processed: 	4
+	- Confirmed seats processed: 	21
+	- Canceled PAYMENTS processed: 	4
+	- Checked SEATS processed: 	17
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	5
+	- VERIFIED PASSENGERS: 	16
+	- ORDERS PROCESSED: 	21
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 1415 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	6
+	- Reserved seats processed: 	34
+	- Confirmed seats waiting for being processed: 	5
+	- Confirmed seats processed: 	24
+	- Canceled PAYMENTS processed: 	4
+	- Checked SEATS processed: 	20
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	5
+	- VERIFIED PASSENGERS: 	18
+	- ORDERS PROCESSED: 	23
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 1617 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	4
+	- Reserved seats processed: 	38
+	- Confirmed seats waiting for being processed: 	8
+	- Confirmed seats processed: 	30
+	- Canceled PAYMENTS processed: 	4
+	- Checked SEATS processed: 	24
+	- Canceled SEATS processed: 	1
+	- TOTAL CANCELLATIONS: 	5
+	- VERIFIED PASSENGERS: 	21
+	- ORDERS PROCESSED: 	26
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 1818 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	9
+	- Reserved seats processed: 	46
+	- Confirmed seats waiting for being processed: 	7
+	- Confirmed seats processed: 	32
+	- Canceled PAYMENTS processed: 	5
+	- Checked SEATS processed: 	26
+	- Canceled SEATS processed: 	2
+	- TOTAL CANCELLATIONS: 	7
+	- VERIFIED PASSENGERS: 	23
+	- ORDERS PROCESSED: 	30
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 2019 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	8
+	- Reserved seats processed: 	51
+	- Confirmed seats waiting for being processed: 	11
+	- Confirmed seats processed: 	37
+	- Canceled PAYMENTS processed: 	6
+	- Checked SEATS processed: 	26
+	- Canceled SEATS processed: 	2
+	- TOTAL CANCELLATIONS: 	8
+	- VERIFIED PASSENGERS: 	24
+	- ORDERS PROCESSED: 	32
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 2219 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	11
+	- Reserved seats processed: 	58
+	- Confirmed seats waiting for being processed: 	14
+	- Confirmed seats processed: 	40
+	- Canceled PAYMENTS processed: 	7
+	- Checked SEATS processed: 	29
+	- Canceled SEATS processed: 	2
+	- TOTAL CANCELLATIONS: 	9
+	- VERIFIED PASSENGERS: 	24
+	- ORDERS PROCESSED: 	33
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 2420 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	12
+	- Reserved seats processed: 	61
+	- Confirmed seats waiting for being processed: 	13
+	- Confirmed seats processed: 	42
+	- Canceled PAYMENTS processed: 	7
+	- Checked SEATS processed: 	31
+	- Canceled SEATS processed: 	2
+	- TOTAL CANCELLATIONS: 	9
+	- VERIFIED PASSENGERS: 	27
+	- ORDERS PROCESSED: 	36
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 2621 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	11
+	- Reserved seats processed: 	65
+	- Confirmed seats waiting for being processed: 	14
+	- Confirmed seats processed: 	47
+	- Canceled PAYMENTS processed: 	7
+	- Checked SEATS processed: 	36
+	- Canceled SEATS processed: 	3
+	- TOTAL CANCELLATIONS: 	10
+	- VERIFIED PASSENGERS: 	30
+	- ORDERS PROCESSED: 	40
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 2823 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	10
+	- Reserved seats processed: 	68
+	- Confirmed seats waiting for being processed: 	15
+	- Confirmed seats processed: 	51
+	- Canceled PAYMENTS processed: 	7
+	- Checked SEATS processed: 	38
+	- Canceled SEATS processed: 	3
+	- TOTAL CANCELLATIONS: 	10
+	- VERIFIED PASSENGERS: 	33
+	- ORDERS PROCESSED: 	43
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 3025 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	12
+	- Reserved seats processed: 	75
+	- Confirmed seats waiting for being processed: 	17
+	- Confirmed seats processed: 	55
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	43
+	- Canceled SEATS processed: 	3
+	- TOTAL CANCELLATIONS: 	11
+	- VERIFIED PASSENGERS: 	35
+	- ORDERS PROCESSED: 	46
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 3226 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	14
+	- Reserved seats processed: 	79
+	- Confirmed seats waiting for being processed: 	15
+	- Confirmed seats processed: 	57
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	45
+	- Canceled SEATS processed: 	4
+	- TOTAL CANCELLATIONS: 	12
+	- VERIFIED PASSENGERS: 	38
+	- ORDERS PROCESSED: 	50
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 3426 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	83
+	- Confirmed seats waiting for being processed: 	16
+	- Confirmed seats processed: 	60
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	48
+	- Canceled SEATS processed: 	5
+	- TOTAL CANCELLATIONS: 	13
+	- VERIFIED PASSENGERS: 	39
+	- ORDERS PROCESSED: 	52
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 3627 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	13
+	- Reserved seats processed: 	88
+	- Confirmed seats waiting for being processed: 	20
+	- Confirmed seats processed: 	67
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	48
+	- Canceled SEATS processed: 	5
+	- TOTAL CANCELLATIONS: 	13
+	- VERIFIED PASSENGERS: 	42
+	- ORDERS PROCESSED: 	55
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 3828 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	94
+	- Confirmed seats waiting for being processed: 	22
+	- Confirmed seats processed: 	71
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	51
+	- Canceled SEATS processed: 	5
+	- TOTAL CANCELLATIONS: 	13
+	- VERIFIED PASSENGERS: 	44
+	- ORDERS PROCESSED: 	57
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 4028 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	98
+	- Confirmed seats waiting for being processed: 	22
+	- Confirmed seats processed: 	75
+	- Canceled PAYMENTS processed: 	8
+	- Checked SEATS processed: 	52
+	- Canceled SEATS processed: 	7
+	- TOTAL CANCELLATIONS: 	15
+	- VERIFIED PASSENGERS: 	46
+	- ORDERS PROCESSED: 	61
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 4229 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	101
+	- Confirmed seats waiting for being processed: 	19
+	- Confirmed seats processed: 	77
+	- Canceled PAYMENTS processed: 	9
+	- Checked SEATS processed: 	55
+	- Canceled SEATS processed: 	7
+	- TOTAL CANCELLATIONS: 	16
+	- VERIFIED PASSENGERS: 	51
+	- ORDERS PROCESSED: 	67
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 4430 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	106
+	- Confirmed seats waiting for being processed: 	20
+	- Confirmed seats processed: 	81
+	- Canceled PAYMENTS processed: 	10
+	- Checked SEATS processed: 	56
+	- Canceled SEATS processed: 	8
+	- TOTAL CANCELLATIONS: 	18
+	- VERIFIED PASSENGERS: 	53
+	- ORDERS PROCESSED: 	71
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 4630 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	14
+	- Reserved seats processed: 	110
+	- Confirmed seats waiting for being processed: 	22
+	- Confirmed seats processed: 	86
+	- Canceled PAYMENTS processed: 	10
+	- Checked SEATS processed: 	59
+	- Canceled SEATS processed: 	8
+	- TOTAL CANCELLATIONS: 	18
+	- VERIFIED PASSENGERS: 	56
+	- ORDERS PROCESSED: 	74
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 4831 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	18
+	- Reserved seats processed: 	117
+	- Confirmed seats waiting for being processed: 	22
+	- Confirmed seats processed: 	89
+	- Canceled PAYMENTS processed: 	10
+	- Checked SEATS processed: 	62
+	- Canceled SEATS processed: 	8
+	- TOTAL CANCELLATIONS: 	18
+	- VERIFIED PASSENGERS: 	59
+	- ORDERS PROCESSED: 	77
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 5032 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	17
+	- Reserved seats processed: 	120
+	- Confirmed seats waiting for being processed: 	22
+	- Confirmed seats processed: 	92
+	- Canceled PAYMENTS processed: 	11
+	- Checked SEATS processed: 	66
+	- Canceled SEATS processed: 	8
+	- TOTAL CANCELLATIONS: 	19
+	- VERIFIED PASSENGERS: 	62
+	- ORDERS PROCESSED: 	81
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 5233 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	18
+	- Reserved seats processed: 	124
+	- Confirmed seats waiting for being processed: 	23
+	- Confirmed seats processed: 	94
+	- Canceled PAYMENTS processed: 	12
+	- Checked SEATS processed: 	67
+	- Canceled SEATS processed: 	9
+	- TOTAL CANCELLATIONS: 	21
+	- VERIFIED PASSENGERS: 	62
+	- ORDERS PROCESSED: 	83
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 5434 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	21
+	- Reserved seats processed: 	131
+	- Confirmed seats waiting for being processed: 	24
+	- Confirmed seats processed: 	97
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	67
+	- Canceled SEATS processed: 	9
+	- TOTAL CANCELLATIONS: 	22
+	- VERIFIED PASSENGERS: 	64
+	- ORDERS PROCESSED: 	86
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 5635 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	20
+	- Reserved seats processed: 	135
+	- Confirmed seats waiting for being processed: 	27
+	- Confirmed seats processed: 	102
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	69
+	- Canceled SEATS processed: 	10
+	- TOTAL CANCELLATIONS: 	23
+	- VERIFIED PASSENGERS: 	65
+	- ORDERS PROCESSED: 	88
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 5836 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	23
+	- Reserved seats processed: 	141
+	- Confirmed seats waiting for being processed: 	29
+	- Confirmed seats processed: 	105
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	71
+	- Canceled SEATS processed: 	10
+	- TOTAL CANCELLATIONS: 	23
+	- VERIFIED PASSENGERS: 	66
+	- ORDERS PROCESSED: 	89
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 6036 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	25
+	- Reserved seats processed: 	147
+	- Confirmed seats waiting for being processed: 	33
+	- Confirmed seats processed: 	109
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	74
+	- Canceled SEATS processed: 	10
+	- TOTAL CANCELLATIONS: 	23
+	- VERIFIED PASSENGERS: 	66
+	- ORDERS PROCESSED: 	89
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 6239 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	25
+	- Reserved seats processed: 	151
+	- Confirmed seats waiting for being processed: 	35
+	- Confirmed seats processed: 	113
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	76
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	24
+	- VERIFIED PASSENGERS: 	67
+	- ORDERS PROCESSED: 	91
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 6439 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	26
+	- Reserved seats processed: 	156
+	- Confirmed seats waiting for being processed: 	38
+	- Confirmed seats processed: 	117
+	- Canceled PAYMENTS processed: 	13
+	- Checked SEATS processed: 	79
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	24
+	- VERIFIED PASSENGERS: 	68
+	- ORDERS PROCESSED: 	92
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 6640 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	25
+	- Reserved seats processed: 	161
+	- Confirmed seats waiting for being processed: 	41
+	- Confirmed seats processed: 	122
+	- Canceled PAYMENTS processed: 	14
+	- Checked SEATS processed: 	81
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	25
+	- VERIFIED PASSENGERS: 	70
+	- ORDERS PROCESSED: 	95
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 6840 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	27
+	- Reserved seats processed: 	165
+	- Confirmed seats waiting for being processed: 	40
+	- Confirmed seats processed: 	124
+	- Canceled PAYMENTS processed: 	14
+	- Checked SEATS processed: 	84
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	25
+	- VERIFIED PASSENGERS: 	73
+	- ORDERS PROCESSED: 	98
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 7041 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	30
+	- Reserved seats processed: 	173
+	- Confirmed seats waiting for being processed: 	40
+	- Confirmed seats processed: 	129
+	- Canceled PAYMENTS processed: 	14
+	- Checked SEATS processed: 	86
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	25
+	- VERIFIED PASSENGERS: 	78
+	- ORDERS PROCESSED: 	103
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 7241 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	30
+	- Reserved seats processed: 	176
+	- Confirmed seats waiting for being processed: 	41
+	- Confirmed seats processed: 	132
+	- Canceled PAYMENTS processed: 	14
+	- Checked SEATS processed: 	88
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	25
+	- VERIFIED PASSENGERS: 	80
+	- ORDERS PROCESSED: 	105
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 7442 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	28
+	- Reserved seats processed: 	180
+	- Confirmed seats waiting for being processed: 	43
+	- Confirmed seats processed: 	137
+	- Canceled PAYMENTS processed: 	15
+	- Checked SEATS processed: 	93
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	26
+	- VERIFIED PASSENGERS: 	83
+	- ORDERS PROCESSED: 	109
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TIMED_WAITING
+	- Thread-3: Reservator 3  State: 	TIMED_WAITING
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 7643 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	31
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	42
+	- Confirmed seats processed: 	140
+	- Canceled PAYMENTS processed: 	15
+	- Checked SEATS processed: 	97
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	26
+	- VERIFIED PASSENGERS: 	87
+	- ORDERS PROCESSED: 	113
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TIMED_WAITING
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 7843 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	28
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	42
+	- Confirmed seats processed: 	142
+	- Canceled PAYMENTS processed: 	16
+	- Checked SEATS processed: 	102
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	27
+	- VERIFIED PASSENGERS: 	89
+	- ORDERS PROCESSED: 	116
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 8045 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	26
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	41
+	- Confirmed seats processed: 	144
+	- Canceled PAYMENTS processed: 	16
+	- Checked SEATS processed: 	103
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	27
+	- VERIFIED PASSENGERS: 	92
+	- ORDERS PROCESSED: 	119
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 8245 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	22
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	44
+	- Confirmed seats processed: 	148
+	- Canceled PAYMENTS processed: 	16
+	- Checked SEATS processed: 	106
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	27
+	- VERIFIED PASSENGERS: 	93
+	- ORDERS PROCESSED: 	120
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 8446 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	18
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	48
+	- Confirmed seats processed: 	152
+	- Canceled PAYMENTS processed: 	16
+	- Checked SEATS processed: 	110
+	- Canceled SEATS processed: 	11
+	- TOTAL CANCELLATIONS: 	27
+	- VERIFIED PASSENGERS: 	93
+	- ORDERS PROCESSED: 	120
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 8646 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	15
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	47
+	- Confirmed seats processed: 	154
+	- Canceled PAYMENTS processed: 	17
+	- Checked SEATS processed: 	113
+	- Canceled SEATS processed: 	12
+	- TOTAL CANCELLATIONS: 	29
+	- VERIFIED PASSENGERS: 	95
+	- ORDERS PROCESSED: 	124
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 8846 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	12
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	46
+	- Confirmed seats processed: 	155
+	- Canceled PAYMENTS processed: 	19
+	- Checked SEATS processed: 	115
+	- Canceled SEATS processed: 	12
+	- TOTAL CANCELLATIONS: 	31
+	- VERIFIED PASSENGERS: 	97
+	- ORDERS PROCESSED: 	128
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 9047 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	9
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	46
+	- Confirmed seats processed: 	158
+	- Canceled PAYMENTS processed: 	19
+	- Checked SEATS processed: 	115
+	- Canceled SEATS processed: 	12
+	- TOTAL CANCELLATIONS: 	31
+	- VERIFIED PASSENGERS: 	100
+	- ORDERS PROCESSED: 	131
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 9248 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	4
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	49
+	- Confirmed seats processed: 	162
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	117
+	- Canceled SEATS processed: 	12
+	- TOTAL CANCELLATIONS: 	32
+	- VERIFIED PASSENGERS: 	101
+	- ORDERS PROCESSED: 	133
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TIMED_WAITING
+	- Thread-5: Paymentator 2  State: 	TIMED_WAITING
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 9449 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	51
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	119
+	- Canceled SEATS processed: 	13
+	- TOTAL CANCELLATIONS: 	33
+	- VERIFIED PASSENGERS: 	102
+	- ORDERS PROCESSED: 	135
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 9649 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	48
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	123
+	- Canceled SEATS processed: 	13
+	- TOTAL CANCELLATIONS: 	33
+	- VERIFIED PASSENGERS: 	105
+	- ORDERS PROCESSED: 	138
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 9850 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	44
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	126
+	- Canceled SEATS processed: 	13
+	- TOTAL CANCELLATIONS: 	33
+	- VERIFIED PASSENGERS: 	109
+	- ORDERS PROCESSED: 	142
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 10050 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	40
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	127
+	- Canceled SEATS processed: 	14
+	- TOTAL CANCELLATIONS: 	34
+	- VERIFIED PASSENGERS: 	112
+	- ORDERS PROCESSED: 	146
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 10251 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	35
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	128
+	- Canceled SEATS processed: 	15
+	- TOTAL CANCELLATIONS: 	35
+	- VERIFIED PASSENGERS: 	116
+	- ORDERS PROCESSED: 	151
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 10452 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	34
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	130
+	- Canceled SEATS processed: 	15
+	- TOTAL CANCELLATIONS: 	35
+	- VERIFIED PASSENGERS: 	117
+	- ORDERS PROCESSED: 	152
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 10652 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	33
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	132
+	- Canceled SEATS processed: 	15
+	- TOTAL CANCELLATIONS: 	35
+	- VERIFIED PASSENGERS: 	118
+	- ORDERS PROCESSED: 	153
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 10853 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	30
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	133
+	- Canceled SEATS processed: 	15
+	- TOTAL CANCELLATIONS: 	35
+	- VERIFIED PASSENGERS: 	121
+	- ORDERS PROCESSED: 	156
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 11054 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	25
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	137
+	- Canceled SEATS processed: 	15
+	- TOTAL CANCELLATIONS: 	35
+	- VERIFIED PASSENGERS: 	126
+	- ORDERS PROCESSED: 	161
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 11256 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	19
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	138
+	- Canceled SEATS processed: 	16
+	- TOTAL CANCELLATIONS: 	36
+	- VERIFIED PASSENGERS: 	131
+	- ORDERS PROCESSED: 	167
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 11458 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	16
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	140
+	- Canceled SEATS processed: 	16
+	- TOTAL CANCELLATIONS: 	36
+	- VERIFIED PASSENGERS: 	134
+	- ORDERS PROCESSED: 	170
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 11659 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	12
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	146
+	- Canceled SEATS processed: 	16
+	- TOTAL CANCELLATIONS: 	36
+	- VERIFIED PASSENGERS: 	138
+	- ORDERS PROCESSED: 	174
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 11859 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	8
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	147
+	- Canceled SEATS processed: 	16
+	- TOTAL CANCELLATIONS: 	36
+	- VERIFIED PASSENGERS: 	142
+	- ORDERS PROCESSED: 	178
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TIMED_WAITING
+	- Thread-7: Validator 2  State: 	TIMED_WAITING
+	- Thread-8: Validator 3  State: 	TIMED_WAITING
+	- Thread-9: Verificator 1  State: 	TIMED_WAITING
+	- Thread-10: Verificator 2  State: 	TIMED_WAITING
+
+---------------------------------------------
+
+---------------------------------------------
+
+Time since start: 12060 [ms]
+
+---------------------------------------------
+
+REGISTER STATUS: 
+
+	- Reserved seats waiting for being processed (seats in array): 	0
+	- Reserved seats processed: 	186
+	- Confirmed seats waiting for being processed: 	0
+	- Confirmed seats processed: 	166
+	- Canceled PAYMENTS processed: 	20
+	- Checked SEATS processed: 	149
+	- Canceled SEATS processed: 	17
+	- TOTAL CANCELLATIONS: 	37
+	- VERIFIED PASSENGERS: 	149
+	- ORDERS PROCESSED: 	186
+
+---------------------------------------------
+
+THREADS STATUS: 
+
+	- Thread-1: Reservator 1  State: 	TERMINATED
+	- Thread-2: Reservator 2  State: 	TERMINATED
+	- Thread-3: Reservator 3  State: 	TERMINATED
+	- Thread-4: Paymentator 1  State: 	TERMINATED
+	- Thread-5: Paymentator 2  State: 	TERMINATED
+	- Thread-6: Validator 1  State: 	TERMINATED
+	- Thread-7: Validator 2  State: 	TERMINATED
+	- Thread-8: Validator 3  State: 	TERMINATED
+	- Thread-9: Verificator 1  State: 	TERMINATED
+	- Thread-10: Verificator 2  State: 	TERMINATED
+
+---------------------------------------------
+
+TOTAL RUN TIME: 12.06 [s]
+TOTAL FLIGHT OCCUPATION: 80.11%
